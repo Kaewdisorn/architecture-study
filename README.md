@@ -42,7 +42,8 @@ spring-boot/
 
 | Pattern | Description |
 |---------|-------------|
-| Clean Architecture + Ports & Adapters | Layered separation with dependency inversion via ports/adapters |
+| Clean Architecture | Uncle Bob's concentric layers with Dependency Rule |
+| Clean Architecture + Ports & Adapters | Clean Architecture combined with Hexagonal (driving/driven port symmetry) |
 
 ---
 
