@@ -37,8 +37,10 @@
 
 ```
 src/
+├── main.ts                                    # Bootstrap (entry point)
+├── app.module.ts                              # Root module
 │
-├── shared/                                  # Cross-cutting concerns
+├── shared/                                    # Cross-cutting concerns
 │   ├── ports/
 │   │   ├── logger.port.ts                   # LoggerPort interface + symbol
 │   │   └── config.port.ts                   # ConfigPort interface + symbol

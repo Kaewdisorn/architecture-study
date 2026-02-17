@@ -39,6 +39,8 @@
 
 ```
 src/
+├── main.ts                              # Bootstrap (entry point)
+├── app.module.ts                        # Root module
 │
 ├── shared/
 │   ├── exceptions/
