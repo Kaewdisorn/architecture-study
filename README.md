@@ -45,6 +45,7 @@ spring-boot/
 | Clean Architecture | Uncle Bob's concentric layers with Dependency Rule |
 | Clean Architecture + Ports & Adapters | Clean Architecture combined with Hexagonal (driving/driven port symmetry) |
 | Domain-Driven Design (DDD) | Aggregates, bounded contexts, domain events, and tactical patterns |
+| DDD + Ports & Adapters | DDD tactical patterns combined with Hexagonal port symmetry |
 
 ---
 
